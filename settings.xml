@@ -28,6 +28,14 @@
             <id>alexberemart</id>
             <repositories>
                 <repository>
+                    <id>github.mavenrepo</id>
+                    <url>https://raw.githubusercontent.com/Alexberemart/mvn-repository/master</url>
+                    <snapshots>
+                        <enabled>true</enabled>
+                        <updatePolicy>always</updatePolicy>
+                    </snapshots>
+                </repository>
+                <repository>
                     <id>codehaus-mule-repo</id>
                     <name>codehaus-mule-repo</name>
                     <url>
