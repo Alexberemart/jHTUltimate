@@ -8,6 +8,14 @@
     <artifactId>jHTUltimate</artifactId>
     <version>1.0.0</version>
 
+    <distributionManagement>
+        <repository>
+            <id>internal.repo</id>
+            <name>Temporary Staging Repository</name>
+            <url>file://${project.build.directory}/mvn-repository</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>com.alexberemart</groupId>
