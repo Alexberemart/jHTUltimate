@@ -1,0 +1,4372 @@
+[
+  {
+    "No.": 5675448,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DCN",
+    "value": 2.05,
+    "final_value": 0.6,
+    "max_range": 21
+  },
+  {
+    "No.": 5675449,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DLN",
+    "value": 2.35,
+    "final_value": 1.2,
+    "max_range": 4
+  },
+  {
+    "No.": 5675450,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "KEE",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 24
+  },
+  {
+    "No.": 5675451,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MCN",
+    "value": 4.2,
+    "final_value": 1.9,
+    "max_range": 4.8
+  },
+  {
+    "No.": 5675452,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MLN",
+    "value": 4.9,
+    "final_value": 3.3,
+    "max_range": 3
+  },
+  {
+    "No.": 5675453,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "ACN",
+    "value": 3.25,
+    "final_value": 1,
+    "max_range": 7.7
+  },
+  {
+    "No.": 5675454,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 2.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675455,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "ACD",
+    "value": 6.5,
+    "final_value": 6.5,
+    "max_range": 7.7
+  },
+  {
+    "No.": 5675456,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DCO",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 6.7
+  },
+  {
+    "No.": 5675457,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DLC",
+    "value": 2.65,
+    "final_value": 1.8,
+    "max_range": 20
+  },
+  {
+    "No.": 5675458,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DLD",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 24
+  },
+  {
+    "No.": 5675459,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "DLO",
+    "value": 3,
+    "final_value": 1.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675460,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "ACL",
+    "value": 3.75,
+    "final_value": 1.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675461,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MCD",
+    "value": 5,
+    "final_value": 3.5,
+    "max_range": 6.6
+  },
+  {
+    "No.": 5675462,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MCO",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675463,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MCL",
+    "value": 4.2,
+    "final_value": 3.4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675464,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MLD",
+    "value": 3.5,
+    "final_value": 1,
+    "max_range": 1
+  },
+  {
+    "No.": 5675465,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MLO",
+    "value": 5,
+    "final_value": 3,
+    "max_range": 4.8
+  },
+  {
+    "No.": 5675466,
+    "User_No.": 5,
+    "player_hattrick_no.": 253863174,
+    "name": "Elias Metall",
+    "attribute": "MLC",
+    "value": 6,
+    "final_value": 6,
+    "max_range": 10.4
+  },
+  {
+    "No.": 5675467,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DCN",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 1
+  },
+  {
+    "No.": 5675468,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DLN",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 17
+  },
+  {
+    "No.": 5675469,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "KEE",
+    "value": 1.5,
+    "final_value": 0.5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675470,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MCN",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 4
+  },
+  {
+    "No.": 5675471,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MLN",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 8.2
+  },
+  {
+    "No.": 5675472,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "ACN",
+    "value": 5.67,
+    "final_value": 5.67,
+    "max_range": 4
+  },
+  {
+    "No.": 5675473,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DCL",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 8
+  },
+  {
+    "No.": 5675474,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "ACD",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675475,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DCO",
+    "value": 1.5,
+    "final_value": 0.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675476,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DLC",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 26
+  },
+  {
+    "No.": 5675477,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DLD",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 7
+  },
+  {
+    "No.": 5675478,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "DLO",
+    "value": 1.85,
+    "final_value": 0.7,
+    "max_range": 4
+  },
+  {
+    "No.": 5675479,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "ACL",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675480,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MCD",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 4
+  },
+  {
+    "No.": 5675481,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MCO",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 8.2
+  },
+  {
+    "No.": 5675482,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MCL",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 10.4
+  },
+  {
+    "No.": 5675483,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 7
+  },
+  {
+    "No.": 5675484,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MLO",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 8.6
+  },
+  {
+    "No.": 5675485,
+    "User_No.": 5,
+    "player_hattrick_no.": 280546537,
+    "name": "Vecit Sonuç",
+    "attribute": "MLC",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 18
+  },
+  {
+    "No.": 5675486,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DCN",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 19.6
+  },
+  {
+    "No.": 5675487,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DLN",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675488,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "KEE",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675489,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MCN",
+    "value": 1.5,
+    "final_value": 1.5,
+    "max_range": 8.3
+  },
+  {
+    "No.": 5675490,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MLN",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 25.2
+  },
+  {
+    "No.": 5675491,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "ACN",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 24
+  },
+  {
+    "No.": 5675492,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DCL",
+    "value": 2.85,
+    "final_value": 1.7,
+    "max_range": 4
+  },
+  {
+    "No.": 5675493,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "ACD",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 15
+  },
+  {
+    "No.": 5675494,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DCO",
+    "value": 1.5,
+    "final_value": 0.5,
+    "max_range": 25
+  },
+  {
+    "No.": 5675495,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DLC",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 14
+  },
+  {
+    "No.": 5675496,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DLD",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 25
+  },
+  {
+    "No.": 5675497,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "DLO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 18
+  },
+  {
+    "No.": 5675498,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "ACL",
+    "value": 3.5,
+    "final_value": 2,
+    "max_range": 28
+  },
+  {
+    "No.": 5675499,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MCD",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 24
+  },
+  {
+    "No.": 5675500,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MCO",
+    "value": 1.5,
+    "final_value": 1.5,
+    "max_range": 8.1
+  },
+  {
+    "No.": 5675501,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MCL",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675502,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 29
+  },
+  {
+    "No.": 5675503,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MLO",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 24.3
+  },
+  {
+    "No.": 5675504,
+    "User_No.": 5,
+    "player_hattrick_no.": 307648350,
+    "name": "Vilperi Stranden",
+    "attribute": "MLC",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 18
+  },
+  {
+    "No.": 5675505,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DCN",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 10.8
+  },
+  {
+    "No.": 5675506,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DLN",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 15
+  },
+  {
+    "No.": 5675507,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "KEE",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675508,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MCN",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675509,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MLN",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 27
+  },
+  {
+    "No.": 5675510,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "ACN",
+    "value": 2,
+    "final_value": 1,
+    "max_range": 23
+  },
+  {
+    "No.": 5675511,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DCL",
+    "value": 2.85,
+    "final_value": 1.7,
+    "max_range": 15
+  },
+  {
+    "No.": 5675512,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "ACD",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675513,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DCO",
+    "value": 1.5,
+    "final_value": 0.5,
+    "max_range": 24
+  },
+  {
+    "No.": 5675514,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DLC",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 3
+  },
+  {
+    "No.": 5675515,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DLD",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 24
+  },
+  {
+    "No.": 5675516,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "DLO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675517,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 1.5,
+    "max_range": 25
+  },
+  {
+    "No.": 5675518,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MCD",
+    "value": 3.67,
+    "final_value": 2.5,
+    "max_range": 29
+  },
+  {
+    "No.": 5675519,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MCO",
+    "value": 1.5,
+    "final_value": 1.5,
+    "max_range": 9.4
+  },
+  {
+    "No.": 5675520,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MCL",
+    "value": 1,
+    "final_value": 0.5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675521,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MLD",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 32
+  },
+  {
+    "No.": 5675522,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MLO",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 28
+  },
+  {
+    "No.": 5675523,
+    "User_No.": 5,
+    "player_hattrick_no.": 307899809,
+    "name": "Jesús Gamacho",
+    "attribute": "MLC",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 3
+  },
+  {
+    "No.": 5675524,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DCN",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 6.3
+  },
+  {
+    "No.": 5675525,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DLN",
+    "value": 6,
+    "final_value": 5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675526,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "KEE",
+    "value": 2.5,
+    "final_value": 2.5,
+    "max_range": 5.6
+  },
+  {
+    "No.": 5675527,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MCN",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 3.7
+  },
+  {
+    "No.": 5675528,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MLN",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675529,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "ACN",
+    "value": 3.8,
+    "final_value": 2.6,
+    "max_range": 4
+  },
+  {
+    "No.": 5675530,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DCL",
+    "value": 6.3,
+    "final_value": 5.6,
+    "max_range": 3
+  },
+  {
+    "No.": 5675531,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "ACD",
+    "value": 4.9,
+    "final_value": 5.8,
+    "max_range": 4.4
+  },
+  {
+    "No.": 5675532,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DCO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 17
+  },
+  {
+    "No.": 5675533,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DLC",
+    "value": 4.85,
+    "final_value": 4.2,
+    "max_range": 5.5
+  },
+  {
+    "No.": 5675534,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DLD",
+    "value": 4.85,
+    "final_value": 4.2,
+    "max_range": 5.6
+  },
+  {
+    "No.": 5675535,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "DLO",
+    "value": 5.25,
+    "final_value": 4.5,
+    "max_range": 5.7
+  },
+  {
+    "No.": 5675536,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "ACL",
+    "value": 5,
+    "final_value": 5,
+    "max_range": 4.4
+  },
+  {
+    "No.": 5675537,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MCD",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 12.6
+  },
+  {
+    "No.": 5675538,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MCO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 15
+  },
+  {
+    "No.": 5675539,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MCL",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 2
+  },
+  {
+    "No.": 5675540,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MLD",
+    "value": 6.5,
+    "final_value": 4.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675541,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MLO",
+    "value": 8.5,
+    "final_value": 8.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675542,
+    "User_No.": 5,
+    "player_hattrick_no.": 313511253,
+    "name": "Marek Kuciewski",
+    "attribute": "MLC",
+    "value": 4.75,
+    "final_value": 4,
+    "max_range": 6
+  },
+  {
+    "No.": 5675543,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DCN",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675544,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DLN",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 8.5
+  },
+  {
+    "No.": 5675545,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "KEE",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 14.4
+  },
+  {
+    "No.": 5675546,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MCN",
+    "value": 6.3,
+    "final_value": 4.73,
+    "max_range": 0
+  },
+  {
+    "No.": 5675547,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MLN",
+    "value": 6.9,
+    "final_value": 7.8,
+    "max_range": 8.6
+  },
+  {
+    "No.": 5675548,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "ACN",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 5.4
+  },
+  {
+    "No.": 5675549,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DCL",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 16
+  },
+  {
+    "No.": 5675550,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "ACD",
+    "value": 7.5,
+    "final_value": 7.5,
+    "max_range": 7.9
+  },
+  {
+    "No.": 5675551,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 11.9
+  },
+  {
+    "No.": 5675552,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DLC",
+    "value": 5,
+    "final_value": 5,
+    "max_range": 4.2
+  },
+  {
+    "No.": 5675553,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DLD",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 16
+  },
+  {
+    "No.": 5675554,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "DLO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 15.8
+  },
+  {
+    "No.": 5675555,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "ACL",
+    "value": 2.65,
+    "final_value": 1.8,
+    "max_range": 11.6
+  },
+  {
+    "No.": 5675556,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MCD",
+    "value": 5.7,
+    "final_value": 4.4,
+    "max_range": 0
+  },
+  {
+    "No.": 5675557,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MCO",
+    "value": 4.5,
+    "final_value": 3,
+    "max_range": 11.5
+  },
+  {
+    "No.": 5675558,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MCL",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 3.6
+  },
+  {
+    "No.": 5675559,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MLD",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 7.2
+  },
+  {
+    "No.": 5675560,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MLO",
+    "value": 6.8,
+    "final_value": 6.1,
+    "max_range": 4.2
+  },
+  {
+    "No.": 5675561,
+    "User_No.": 5,
+    "player_hattrick_no.": 320314741,
+    "name": "Lassi Aho",
+    "attribute": "MLC",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 7.2
+  },
+  {
+    "No.": 5675562,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DCN",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 8.9
+  },
+  {
+    "No.": 5675563,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DLN",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 8.8
+  },
+  {
+    "No.": 5675564,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "KEE",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675565,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MCN",
+    "value": 5,
+    "final_value": 3.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675566,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MLN",
+    "value": 3.35,
+    "final_value": 2.2,
+    "max_range": 4.4
+  },
+  {
+    "No.": 5675567,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "ACN",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 10
+  },
+  {
+    "No.": 5675568,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DCL",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675569,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "ACD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 4.8
+  },
+  {
+    "No.": 5675570,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675571,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DLC",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675572,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DLD",
+    "value": 2.18,
+    "final_value": 1.6,
+    "max_range": 16
+  },
+  {
+    "No.": 5675573,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "DLO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 9.6
+  },
+  {
+    "No.": 5675574,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "ACL",
+    "value": 2.65,
+    "final_value": 1.8,
+    "max_range": 10
+  },
+  {
+    "No.": 5675575,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MCD",
+    "value": 5.2,
+    "final_value": 3.6,
+    "max_range": 3
+  },
+  {
+    "No.": 5675576,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MCO",
+    "value": 5.3,
+    "final_value": 4.6,
+    "max_range": 5.6
+  },
+  {
+    "No.": 5675577,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MCL",
+    "value": 5.6,
+    "final_value": 4.2,
+    "max_range": 3.3
+  },
+  {
+    "No.": 5675578,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MLD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 5.6
+  },
+  {
+    "No.": 5675579,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MLO",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675580,
+    "User_No.": 5,
+    "player_hattrick_no.": 327345181,
+    "name": "?tefan-Alexandru Savu",
+    "attribute": "MLC",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 10
+  },
+  {
+    "No.": 5675581,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DCN",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675582,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DLN",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 20
+  },
+  {
+    "No.": 5675583,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "KEE",
+    "value": 2,
+    "final_value": 2,
+    "max_range": 14.3
+  },
+  {
+    "No.": 5675584,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MCN",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 15.3
+  },
+  {
+    "No.": 5675585,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MLN",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 15.6
+  },
+  {
+    "No.": 5675586,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "ACN",
+    "value": 9.5,
+    "final_value": 7.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675587,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DCL",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 20.7
+  },
+  {
+    "No.": 5675588,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "ACD",
+    "value": 5.5,
+    "final_value": 3.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675589,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DCO",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 19
+  },
+  {
+    "No.": 5675590,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DLC",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 22
+  },
+  {
+    "No.": 5675591,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DLD",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 22
+  },
+  {
+    "No.": 5675592,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "DLO",
+    "value": 1.85,
+    "final_value": 0.7,
+    "max_range": 19.6
+  },
+  {
+    "No.": 5675593,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "ACL",
+    "value": 7,
+    "final_value": 5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675594,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MCD",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 15.8
+  },
+  {
+    "No.": 5675595,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MCO",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 19.6
+  },
+  {
+    "No.": 5675596,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MCL",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 20.3
+  },
+  {
+    "No.": 5675597,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 18.6
+  },
+  {
+    "No.": 5675598,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MLO",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 21.3
+  },
+  {
+    "No.": 5675599,
+    "User_No.": 5,
+    "player_hattrick_no.": 350296463,
+    "name": "Freddy van der Vlag",
+    "attribute": "MLC",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 19.6
+  },
+  {
+    "No.": 5675600,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DCN",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 7.8
+  },
+  {
+    "No.": 5675601,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DLN",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675602,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "KEE",
+    "value": 2.5,
+    "final_value": 2.5,
+    "max_range": 9.9
+  },
+  {
+    "No.": 5675603,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MCN",
+    "value": 5,
+    "final_value": 4.5,
+    "max_range": 5.4
+  },
+  {
+    "No.": 5675604,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MLN",
+    "value": 5.73,
+    "final_value": 4.7,
+    "max_range": 6.9
+  },
+  {
+    "No.": 5675605,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "ACN",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 7.8
+  },
+  {
+    "No.": 5675606,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DCL",
+    "value": 3.35,
+    "final_value": 2.7,
+    "max_range": 2.2
+  },
+  {
+    "No.": 5675607,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "ACD",
+    "value": 7,
+    "final_value": 6,
+    "max_range": 8.8
+  },
+  {
+    "No.": 5675608,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DCO",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 11.8
+  },
+  {
+    "No.": 5675609,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DLC",
+    "value": 3.75,
+    "final_value": 3.5,
+    "max_range": 13.9
+  },
+  {
+    "No.": 5675610,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DLD",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 11.9
+  },
+  {
+    "No.": 5675611,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "DLO",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 12
+  },
+  {
+    "No.": 5675612,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "ACL",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 10.7
+  },
+  {
+    "No.": 5675613,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MCD",
+    "value": 5.5,
+    "final_value": 5,
+    "max_range": 3.2
+  },
+  {
+    "No.": 5675614,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MCO",
+    "value": 6.5,
+    "final_value": 5.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675615,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MCL",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 8.8
+  },
+  {
+    "No.": 5675616,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MLD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 10.5
+  },
+  {
+    "No.": 5675617,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MLO",
+    "value": 5.5,
+    "final_value": 4.5,
+    "max_range": 8.8
+  },
+  {
+    "No.": 5675618,
+    "User_No.": 5,
+    "player_hattrick_no.": 366740657,
+    "name": "Abdessami Felay",
+    "attribute": "MLC",
+    "value": 6,
+    "final_value": 5,
+    "max_range": 8.8
+  },
+  {
+    "No.": 5675619,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DCN",
+    "value": 4.1,
+    "final_value": 3.2,
+    "max_range": 10
+  },
+  {
+    "No.": 5675620,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DLN",
+    "value": 4,
+    "final_value": 2.5,
+    "max_range": 7.2
+  },
+  {
+    "No.": 5675621,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "KEE",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 9.2
+  },
+  {
+    "No.": 5675622,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MCN",
+    "value": 6,
+    "final_value": 5,
+    "max_range": 8.1
+  },
+  {
+    "No.": 5675623,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MLN",
+    "value": 6,
+    "final_value": 5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675624,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "ACN",
+    "value": 6.5,
+    "final_value": 6.5,
+    "max_range": 8.1
+  },
+  {
+    "No.": 5675625,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DCL",
+    "value": 5,
+    "final_value": 4.5,
+    "max_range": 9.1
+  },
+  {
+    "No.": 5675626,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "ACD",
+    "value": 6.35,
+    "final_value": 5.7,
+    "max_range": 10.2
+  },
+  {
+    "No.": 5675627,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675628,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DLC",
+    "value": 4.5,
+    "final_value": 3,
+    "max_range": 9
+  },
+  {
+    "No.": 5675629,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DLD",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 12
+  },
+  {
+    "No.": 5675630,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "DLO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 9
+  },
+  {
+    "No.": 5675631,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "ACL",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675632,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MCD",
+    "value": 5,
+    "final_value": 5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675633,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MCO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 10
+  },
+  {
+    "No.": 5675634,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MCL",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 10.2
+  },
+  {
+    "No.": 5675635,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MLD",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 8
+  },
+  {
+    "No.": 5675636,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MLO",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 6
+  },
+  {
+    "No.": 5675637,
+    "User_No.": 5,
+    "player_hattrick_no.": 370202331,
+    "name": "Bruno Garay",
+    "attribute": "MLC",
+    "value": 5,
+    "final_value": 4.5,
+    "max_range": 5.2
+  },
+  {
+    "No.": 5675638,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DCN",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 12
+  },
+  {
+    "No.": 5675639,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DLN",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 15
+  },
+  {
+    "No.": 5675640,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "KEE",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 17
+  },
+  {
+    "No.": 5675641,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MCN",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675642,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MLN",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675643,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "ACN",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 12.2
+  },
+  {
+    "No.": 5675644,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 12.2
+  },
+  {
+    "No.": 5675645,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "ACD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 11.7
+  },
+  {
+    "No.": 5675646,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 15.4
+  },
+  {
+    "No.": 5675647,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DLC",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 16.2
+  },
+  {
+    "No.": 5675648,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DLD",
+    "value": 1.5,
+    "final_value": 1.5,
+    "max_range": 17.9
+  },
+  {
+    "No.": 5675649,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "DLO",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 17
+  },
+  {
+    "No.": 5675650,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "ACL",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 15.4
+  },
+  {
+    "No.": 5675651,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MCD",
+    "value": 6.3,
+    "final_value": 7.1,
+    "max_range": 1
+  },
+  {
+    "No.": 5675652,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MCO",
+    "value": 5.75,
+    "final_value": 5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675653,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MCL",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 14.5
+  },
+  {
+    "No.": 5675654,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 12.6
+  },
+  {
+    "No.": 5675655,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MLO",
+    "value": 2,
+    "final_value": 2,
+    "max_range": 11.1
+  },
+  {
+    "No.": 5675656,
+    "User_No.": 5,
+    "player_hattrick_no.": 373934110,
+    "name": "Adelardo Castroverde",
+    "attribute": "MLC",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 15.8
+  },
+  {
+    "No.": 5675657,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DCN",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 11
+  },
+  {
+    "No.": 5675658,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DLN",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675659,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "KEE",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675660,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MCN",
+    "value": 5.5,
+    "final_value": 4.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675661,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MLN",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675662,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "ACN",
+    "value": 5.85,
+    "final_value": 5.2,
+    "max_range": 3
+  },
+  {
+    "No.": 5675663,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DCL",
+    "value": 3.25,
+    "final_value": 2.5,
+    "max_range": 12
+  },
+  {
+    "No.": 5675664,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "ACD",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 7.8
+  },
+  {
+    "No.": 5675665,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 4.6
+  },
+  {
+    "No.": 5675666,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DLC",
+    "value": 3.67,
+    "final_value": 3,
+    "max_range": 19
+  },
+  {
+    "No.": 5675667,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DLD",
+    "value": 4.75,
+    "final_value": 4.75,
+    "max_range": 14
+  },
+  {
+    "No.": 5675668,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "DLO",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 4.6
+  },
+  {
+    "No.": 5675669,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "ACL",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675670,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MCD",
+    "value": 5.5,
+    "final_value": 4.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675671,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MCO",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675672,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MCL",
+    "value": 5,
+    "final_value": 5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675673,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MLD",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 9.4
+  },
+  {
+    "No.": 5675674,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MLO",
+    "value": 2,
+    "final_value": 2,
+    "max_range": 13.6
+  },
+  {
+    "No.": 5675675,
+    "User_No.": 5,
+    "player_hattrick_no.": 378065322,
+    "name": "Tomáš Švejda",
+    "attribute": "MLC",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675676,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DCN",
+    "value": 5.36,
+    "final_value": 4.64,
+    "max_range": 9
+  },
+  {
+    "No.": 5675677,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DLN",
+    "value": 7.41,
+    "final_value": 5.91,
+    "max_range": 0
+  },
+  {
+    "No.": 5675678,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "KEE",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675679,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MCN",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 11.3
+  },
+  {
+    "No.": 5675680,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MLN",
+    "value": 5.5,
+    "final_value": 5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675681,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "ACN",
+    "value": 5.2,
+    "final_value": 4.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675682,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DCL",
+    "value": 5.54,
+    "final_value": 4.46,
+    "max_range": 6
+  },
+  {
+    "No.": 5675683,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "ACD",
+    "value": 4.9,
+    "final_value": 5.8,
+    "max_range": 10.3
+  },
+  {
+    "No.": 5675684,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DCO",
+    "value": 4.75,
+    "final_value": 4,
+    "max_range": 14
+  },
+  {
+    "No.": 5675685,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DLC",
+    "value": 6.5,
+    "final_value": 5.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675686,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DLD",
+    "value": 6.75,
+    "final_value": 5.25,
+    "max_range": 3
+  },
+  {
+    "No.": 5675687,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "DLO",
+    "value": 6,
+    "final_value": 5.25,
+    "max_range": 6
+  },
+  {
+    "No.": 5675688,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675689,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MCD",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 13
+  },
+  {
+    "No.": 5675690,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MCO",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 13
+  },
+  {
+    "No.": 5675691,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MCL",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675692,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MLD",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 9
+  },
+  {
+    "No.": 5675693,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MLO",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 13
+  },
+  {
+    "No.": 5675694,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003148,
+    "name": "Javier Martínez",
+    "attribute": "MLC",
+    "value": 4.75,
+    "final_value": 4,
+    "max_range": 12.5
+  },
+  {
+    "No.": 5675695,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DCN",
+    "value": 6.02,
+    "final_value": 5.12,
+    "max_range": 12
+  },
+  {
+    "No.": 5675696,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DLN",
+    "value": 6.2,
+    "final_value": 4.82,
+    "max_range": 1
+  },
+  {
+    "No.": 5675697,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "KEE",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675698,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MCN",
+    "value": 3.6,
+    "final_value": 2.2,
+    "max_range": 12
+  },
+  {
+    "No.": 5675699,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MLN",
+    "value": 6.25,
+    "final_value": 5.5,
+    "max_range": 11.9
+  },
+  {
+    "No.": 5675700,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "ACN",
+    "value": 3.8,
+    "final_value": 2.6,
+    "max_range": 12
+  },
+  {
+    "No.": 5675701,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DCL",
+    "value": 6.46,
+    "final_value": 5.05,
+    "max_range": 7
+  },
+  {
+    "No.": 5675702,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "ACD",
+    "value": 4.9,
+    "final_value": 5.8,
+    "max_range": 14.7
+  },
+  {
+    "No.": 5675703,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DCO",
+    "value": 3.85,
+    "final_value": 2.7,
+    "max_range": 15
+  },
+  {
+    "No.": 5675704,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DLC",
+    "value": 5.5,
+    "final_value": 4.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675705,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DLD",
+    "value": 6.25,
+    "final_value": 4.5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675706,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "DLO",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675707,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675708,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MCD",
+    "value": 4.2,
+    "final_value": 2.9,
+    "max_range": 16
+  },
+  {
+    "No.": 5675709,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MCO",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 16
+  },
+  {
+    "No.": 5675710,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MCL",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675711,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MLD",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675712,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MLO",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 17
+  },
+  {
+    "No.": 5675713,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003153,
+    "name": "? (Mei) ?? (Kunren)",
+    "attribute": "MLC",
+    "value": 4.75,
+    "final_value": 4,
+    "max_range": 16.5
+  },
+  {
+    "No.": 5675714,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DCN",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 3
+  },
+  {
+    "No.": 5675715,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DLN",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675716,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "KEE",
+    "value": 2.5,
+    "final_value": 2.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675717,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MCN",
+    "value": 4.83,
+    "final_value": 4.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675718,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MLN",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 0
+  },
+  {
+    "No.": 5675719,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "ACN",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675720,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DCL",
+    "value": 5,
+    "final_value": 3.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675721,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "ACD",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 3
+  },
+  {
+    "No.": 5675722,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DCO",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 3
+  },
+  {
+    "No.": 5675723,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DLC",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675724,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DLD",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675725,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "DLO",
+    "value": 5.9,
+    "final_value": 6.8,
+    "max_range": 2
+  },
+  {
+    "No.": 5675726,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "ACL",
+    "value": 6,
+    "final_value": 4.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675727,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MCD",
+    "value": 4.75,
+    "final_value": 3.75,
+    "max_range": 2
+  },
+  {
+    "No.": 5675728,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MCO",
+    "value": 4.5,
+    "final_value": 4,
+    "max_range": 4
+  },
+  {
+    "No.": 5675729,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MCL",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675730,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MLD",
+    "value": 5.67,
+    "final_value": 5.67,
+    "max_range": 1
+  },
+  {
+    "No.": 5675731,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MLO",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 6
+  },
+  {
+    "No.": 5675732,
+    "User_No.": 5,
+    "player_hattrick_no.": 391003159,
+    "name": "Marcos Fáñez",
+    "attribute": "MLC",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675733,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DCN",
+    "value": 5.5,
+    "final_value": 4.88,
+    "max_range": 0
+  },
+  {
+    "No.": 5675734,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DLN",
+    "value": 7.25,
+    "final_value": 6.75,
+    "max_range": 0
+  },
+  {
+    "No.": 5675735,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "KEE",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 2
+  },
+  {
+    "No.": 5675736,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MCN",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675737,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MLN",
+    "value": 5.5,
+    "final_value": 5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675738,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "ACN",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675739,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DCL",
+    "value": 5.5,
+    "final_value": 4.5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675740,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "ACD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675741,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DCO",
+    "value": 4.18,
+    "final_value": 2.85,
+    "max_range": 13
+  },
+  {
+    "No.": 5675742,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DLC",
+    "value": 2.75,
+    "final_value": 2.25,
+    "max_range": 6
+  },
+  {
+    "No.": 5675743,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DLD",
+    "value": 6.75,
+    "final_value": 5.25,
+    "max_range": 10
+  },
+  {
+    "No.": 5675744,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "DLO",
+    "value": 4.5,
+    "final_value": 3,
+    "max_range": 8
+  },
+  {
+    "No.": 5675745,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675746,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MCD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 13
+  },
+  {
+    "No.": 5675747,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MCO",
+    "value": 3.5,
+    "final_value": 2.75,
+    "max_range": 14
+  },
+  {
+    "No.": 5675748,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MCL",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675749,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MLD",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 14
+  },
+  {
+    "No.": 5675750,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MLO",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675751,
+    "User_No.": 5,
+    "player_hattrick_no.": 395595548,
+    "name": "Julián Español",
+    "attribute": "MLC",
+    "value": 4.75,
+    "final_value": 4,
+    "max_range": 18
+  },
+  {
+    "No.": 5675752,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DCN",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675753,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DLN",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 7.8
+  },
+  {
+    "No.": 5675754,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "KEE",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675755,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MCN",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 2
+  },
+  {
+    "No.": 5675756,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MLN",
+    "value": 2.85,
+    "final_value": 1.7,
+    "max_range": 4
+  },
+  {
+    "No.": 5675757,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "ACN",
+    "value": 5.9,
+    "final_value": 4.9,
+    "max_range": 2
+  },
+  {
+    "No.": 5675758,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 12
+  },
+  {
+    "No.": 5675759,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "ACD",
+    "value": 6,
+    "final_value": 5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675760,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DCO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675761,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DLC",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 15
+  },
+  {
+    "No.": 5675762,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DLD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 19
+  },
+  {
+    "No.": 5675763,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "DLO",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 15.4
+  },
+  {
+    "No.": 5675764,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "ACL",
+    "value": 6.5,
+    "final_value": 5.67,
+    "max_range": 0
+  },
+  {
+    "No.": 5675765,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MCD",
+    "value": 1.8,
+    "final_value": 1.1,
+    "max_range": 11
+  },
+  {
+    "No.": 5675766,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MCO",
+    "value": 2,
+    "final_value": 2,
+    "max_range": 9
+  },
+  {
+    "No.": 5675767,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MCL",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675768,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 10
+  },
+  {
+    "No.": 5675769,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MLO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675770,
+    "User_No.": 5,
+    "player_hattrick_no.": 399810295,
+    "name": "Rafael Alejandro Penadés",
+    "attribute": "MLC",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675771,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DCN",
+    "value": 5.5,
+    "final_value": 5.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675772,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DLN",
+    "value": 5.12,
+    "final_value": 4.4,
+    "max_range": 0
+  },
+  {
+    "No.": 5675773,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "KEE",
+    "value": 2.83,
+    "final_value": 2.67,
+    "max_range": 7
+  },
+  {
+    "No.": 5675774,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MCN",
+    "value": 3,
+    "final_value": 2.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675775,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MLN",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 11
+  },
+  {
+    "No.": 5675776,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "ACN",
+    "value": 3,
+    "final_value": 2.17,
+    "max_range": 5
+  },
+  {
+    "No.": 5675777,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DCL",
+    "value": 5,
+    "final_value": 4,
+    "max_range": 0
+  },
+  {
+    "No.": 5675778,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "ACD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675779,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DCO",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 1
+  },
+  {
+    "No.": 5675780,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DLC",
+    "value": 4.85,
+    "final_value": 3.7,
+    "max_range": 1
+  },
+  {
+    "No.": 5675781,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DLD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675782,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "DLO",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 3
+  },
+  {
+    "No.": 5675783,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 11
+  },
+  {
+    "No.": 5675784,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MCD",
+    "value": 4.25,
+    "final_value": 3.75,
+    "max_range": 6
+  },
+  {
+    "No.": 5675785,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MCO",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 7
+  },
+  {
+    "No.": 5675786,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MCL",
+    "value": 4,
+    "final_value": 3.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675787,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MLD",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675788,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MLO",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 7
+  },
+  {
+    "No.": 5675789,
+    "User_No.": 5,
+    "player_hattrick_no.": 409583623,
+    "name": "Livio Cerio",
+    "attribute": "MLC",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675790,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DCN",
+    "value": 4.35,
+    "final_value": 3.2,
+    "max_range": 0
+  },
+  {
+    "No.": 5675791,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DLN",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675792,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "KEE",
+    "value": 2.83,
+    "final_value": 2.67,
+    "max_range": 11
+  },
+  {
+    "No.": 5675793,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MCN",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 3
+  },
+  {
+    "No.": 5675794,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MLN",
+    "value": 5.5,
+    "final_value": 5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675795,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "ACN",
+    "value": 2.75,
+    "final_value": 2,
+    "max_range": 5
+  },
+  {
+    "No.": 5675796,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DCL",
+    "value": 0,
+    "final_value": 0,
+    "max_range": 2
+  },
+  {
+    "No.": 5675797,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "ACD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 13
+  },
+  {
+    "No.": 5675798,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DCO",
+    "value": 4,
+    "final_value": 3.25,
+    "max_range": 3
+  },
+  {
+    "No.": 5675799,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DLC",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 0
+  },
+  {
+    "No.": 5675800,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DLD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675801,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "DLO",
+    "value": 4.38,
+    "final_value": 3.5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675802,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 17
+  },
+  {
+    "No.": 5675803,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MCD",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 1
+  },
+  {
+    "No.": 5675804,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MCO",
+    "value": 3.5,
+    "final_value": 3,
+    "max_range": 1
+  },
+  {
+    "No.": 5675805,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MCL",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 18
+  },
+  {
+    "No.": 5675806,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MLD",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675807,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MLO",
+    "value": 4,
+    "final_value": 4,
+    "max_range": 1
+  },
+  {
+    "No.": 5675808,
+    "User_No.": 5,
+    "player_hattrick_no.": 410181967,
+    "name": "Quirze Pera",
+    "attribute": "MLC",
+    "value": 4.33,
+    "final_value": 3.17,
+    "max_range": 18
+  },
+  {
+    "No.": 5675809,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DCN",
+    "value": 2.5,
+    "final_value": 1.75,
+    "max_range": 8
+  },
+  {
+    "No.": 5675810,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DLN",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 8
+  },
+  {
+    "No.": 5675811,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "KEE",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 11
+  },
+  {
+    "No.": 5675812,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MCN",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675813,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MLN",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 11
+  },
+  {
+    "No.": 5675814,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "ACN",
+    "value": 3.5,
+    "final_value": 3.5,
+    "max_range": 2
+  },
+  {
+    "No.": 5675815,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675816,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "ACD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 2
+  },
+  {
+    "No.": 5675817,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DCO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675818,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DLC",
+    "value": 2.5,
+    "final_value": 1.75,
+    "max_range": 8
+  },
+  {
+    "No.": 5675819,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DLD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 9
+  },
+  {
+    "No.": 5675820,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "DLO",
+    "value": 3.33,
+    "final_value": 2.33,
+    "max_range": 11
+  },
+  {
+    "No.": 5675821,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 1
+  },
+  {
+    "No.": 5675822,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MCD",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675823,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MCO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675824,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MCL",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 12
+  },
+  {
+    "No.": 5675825,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MLD",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675826,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MLO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675827,
+    "User_No.": 5,
+    "player_hattrick_no.": 415279540,
+    "name": "Roberto Bauchamp",
+    "attribute": "MLC",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 10
+  },
+  {
+    "No.": 5675828,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DCN",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 5
+  },
+  {
+    "No.": 5675829,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DLN",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 6.5
+  },
+  {
+    "No.": 5675830,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "KEE",
+    "value": 1.35,
+    "final_value": 0.7,
+    "max_range": 4
+  },
+  {
+    "No.": 5675831,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MCN",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675832,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MLN",
+    "value": 2.9,
+    "final_value": 3.8,
+    "max_range": 6
+  },
+  {
+    "No.": 5675833,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "ACN",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 1
+  },
+  {
+    "No.": 5675834,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675835,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "ACD",
+    "value": 3.62,
+    "final_value": 3.23,
+    "max_range": 3
+  },
+  {
+    "No.": 5675836,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DCO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 4
+  },
+  {
+    "No.": 5675837,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DLC",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 10
+  },
+  {
+    "No.": 5675838,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DLD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 12
+  },
+  {
+    "No.": 5675839,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "DLO",
+    "value": 3.88,
+    "final_value": 2.88,
+    "max_range": 13
+  },
+  {
+    "No.": 5675840,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "ACL",
+    "value": 3.85,
+    "final_value": 2.7,
+    "max_range": 0
+  },
+  {
+    "No.": 5675841,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MCD",
+    "value": 1.8,
+    "final_value": 1.1,
+    "max_range": 4
+  },
+  {
+    "No.": 5675842,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MCO",
+    "value": 2,
+    "final_value": 2,
+    "max_range": 6
+  },
+  {
+    "No.": 5675843,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MCL",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 4
+  },
+  {
+    "No.": 5675844,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 5
+  },
+  {
+    "No.": 5675845,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MLO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675846,
+    "User_No.": 5,
+    "player_hattrick_no.": 415398077,
+    "name": "Josep Tarín",
+    "attribute": "MLC",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675847,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DCN",
+    "value": 2.83,
+    "final_value": 2,
+    "max_range": 10
+  },
+  {
+    "No.": 5675848,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DLN",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 7.5
+  },
+  {
+    "No.": 5675849,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "KEE",
+    "value": 1.35,
+    "final_value": 0.7,
+    "max_range": 12
+  },
+  {
+    "No.": 5675850,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MCN",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675851,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MLN",
+    "value": 2.5,
+    "final_value": 2,
+    "max_range": 11
+  },
+  {
+    "No.": 5675852,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "ACN",
+    "value": 3.85,
+    "final_value": 2.7,
+    "max_range": 1
+  },
+  {
+    "No.": 5675853,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675854,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "ACD",
+    "value": 4.5,
+    "final_value": 4.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675855,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DCO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675856,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DLC",
+    "value": 2.5,
+    "final_value": 1.75,
+    "max_range": 10
+  },
+  {
+    "No.": 5675857,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DLD",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 9
+  },
+  {
+    "No.": 5675858,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "DLO",
+    "value": 3.33,
+    "final_value": 2.33,
+    "max_range": 11
+  },
+  {
+    "No.": 5675859,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "ACL",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 5
+  },
+  {
+    "No.": 5675860,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MCD",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675861,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MCO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675862,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MCL",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 12
+  },
+  {
+    "No.": 5675863,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MLD",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675864,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MLO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675865,
+    "User_No.": 5,
+    "player_hattrick_no.": 415514142,
+    "name": "Vidal Confurco",
+    "attribute": "MLC",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675866,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DCN",
+    "value": 2.5,
+    "final_value": 1.75,
+    "max_range": 9
+  },
+  {
+    "No.": 5675867,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DLN",
+    "value": 4.17,
+    "final_value": 2.83,
+    "max_range": 10
+  },
+  {
+    "No.": 5675868,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "KEE",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 7
+  },
+  {
+    "No.": 5675869,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MCN",
+    "value": 4,
+    "final_value": 3,
+    "max_range": 9
+  },
+  {
+    "No.": 5675870,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MLN",
+    "value": 2.85,
+    "final_value": 1.7,
+    "max_range": 7
+  },
+  {
+    "No.": 5675871,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "ACN",
+    "value": 5.5,
+    "final_value": 4,
+    "max_range": 0
+  },
+  {
+    "No.": 5675872,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DCL",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 7
+  },
+  {
+    "No.": 5675873,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "ACD",
+    "value": 3.75,
+    "final_value": 1.5,
+    "max_range": 1
+  },
+  {
+    "No.": 5675874,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DCO",
+    "value": 2,
+    "final_value": 1.5,
+    "max_range": 6
+  },
+  {
+    "No.": 5675875,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DLC",
+    "value": 3,
+    "final_value": 2,
+    "max_range": 10
+  },
+  {
+    "No.": 5675876,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DLD",
+    "value": 3.5,
+    "final_value": 2.5,
+    "max_range": 14
+  },
+  {
+    "No.": 5675877,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "DLO",
+    "value": 4.5,
+    "final_value": 3.5,
+    "max_range": 11
+  },
+  {
+    "No.": 5675878,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "ACL",
+    "value": 5,
+    "final_value": 5,
+    "max_range": 5
+  },
+  {
+    "No.": 5675879,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MCD",
+    "value": 1.8,
+    "final_value": 1.1,
+    "max_range": 8
+  },
+  {
+    "No.": 5675880,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MCO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 9
+  },
+  {
+    "No.": 5675881,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MCL",
+    "value": 1.5,
+    "final_value": 1,
+    "max_range": 8
+  },
+  {
+    "No.": 5675882,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MLD",
+    "value": 3,
+    "final_value": 3,
+    "max_range": 7
+  },
+  {
+    "No.": 5675883,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MLO",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 8
+  },
+  {
+    "No.": 5675884,
+    "User_No.": 5,
+    "player_hattrick_no.": 415910092,
+    "name": "Geroni Bartrina",
+    "attribute": "MLC",
+    "value": 2.5,
+    "final_value": 1.5,
+    "max_range": 8
+  }
+]
