@@ -1,5 +1,8 @@
 package com.alexberemart.jhtultimate.model.vo;
 
+import org.codehaus.jackson.annotate.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown=true)
 public class PlayerPrediction {
 
     protected String name;
