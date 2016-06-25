@@ -82,6 +82,7 @@
     </dependencies>
 
     <build>
+        <finalName>JHTUltimate</finalName>
         <resources>
             <resource>
                 <directory>${basedir}/src/main/conf</directory>
