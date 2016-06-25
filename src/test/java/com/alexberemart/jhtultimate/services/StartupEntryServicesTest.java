@@ -1,5 +1,6 @@
 package com.alexberemart.jhtultimate.services;
 
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
 import com.alexberemart.jhtultimate.model.vo.StartupOptionsPositions;
@@ -40,7 +41,7 @@ public class StartupEntryServicesTest {
         StartupOptions startupOptions = new StartupOptions();
 
         StartupOptionsPositions startupOptionsPositions = new StartupOptionsPositions();
-        startupOptionsPositions.setPosition("KEE");
+        startupOptionsPositions.setPosition(PlayerPosition.valueOf("KEE"));
         startupOptionsPositions.setValue(1);
         startupOptions.getMinPositions().add(startupOptionsPositions);
 

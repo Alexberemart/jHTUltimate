@@ -1,15 +1,17 @@
 package com.alexberemart.jhtultimate.model.vo;
 
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
+
 public class StartupOptionsPositions {
 
-    protected String position;
+    protected PlayerPosition position;
     protected Integer value;
 
-    public String getPosition() {
+    public PlayerPosition getPosition() {
         return position;
     }
 
-    public void setPosition(String position) {
+    public void setPosition(PlayerPosition position) {
         this.position = position;
     }
 

@@ -1,6 +1,7 @@
 package com.alexberemart.jhtultimate.rest;
 
 import com.alexberemart.core.rest.AbstractRestService;
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
 import com.alexberemart.jhtultimate.model.vo.StartupEntry;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
@@ -38,7 +39,7 @@ public class StartupEntryService extends AbstractRestService {
         StartupOptions startupOptions = new StartupOptions();
 
         StartupOptionsPositions startupOptionsPositions = new StartupOptionsPositions();
-        startupOptionsPositions.setPosition("KEE");
+        startupOptionsPositions.setPosition(PlayerPosition.valueOf("KEE"));
         startupOptionsPositions.setValue(1);
         startupOptions.getMinPositions().add(startupOptionsPositions);
 
