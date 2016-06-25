@@ -1,5 +1,7 @@
 package com.alexberemart.jhtultimate.services;
 
+import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
+import com.alexberemart.jhtultimate.model.vo.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
 import com.alexberemart.jhtultimate.model.vo.StartupEntry;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
@@ -7,6 +9,11 @@ import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
+
+import static ch.lambdaj.Lambda.having;
+import static ch.lambdaj.Lambda.on;
+import static ch.lambdaj.Lambda.select;
+import static org.hamcrest.Matchers.equalTo;
 
 @Service
 public class StartupEntryServices {
@@ -21,18 +28,27 @@ public class StartupEntryServices {
 
         Long start = System.currentTimeMillis();
 
-        for (Integer i = 0; i < positionCount; i++){
+        if (startupOptions.getFixedPlayerPositions().size() > positionCount){
+            throw new FixedPositionsOverloadException("FixedPositionsOverload");
+        }
+
+        //Posiciones Forzadas
+        for (PlayerPosition playerPosition : startupOptions.getFixedPlayerPositions()){
+            StartupEntry entry = new StartupEntry();
+            entry.setName(playerPosition.getName());
+            entry.setPosition(playerPosition.getPosition());
+            entry.setValue(1.0);
+            result.add(entry);
+        }
+
+        Integer remainingPositionCount = positionCount - result.size();
+
+        for (Integer i = 0; i < remainingPositionCount; i++){
 
             PlayerPrediction selectedPlayer = new PlayerPrediction();
 
-            if (startupOptions.getMinPositions().size() >= (positionCount - i)){
-                for (PlayerPrediction playerPrediction : playerPredictionList){
-                    if (selectedPlayer.getName() == null) {
-                        if (startupOptions.getMinPositions().get(0).getPosition().equals(playerPrediction.getAttribute())) {
-                            selectedPlayer = playerPrediction;
-                        }
-                    }
-                }
+            if (startupOptions.getMinPositions().size() >= (remainingPositionCount - i)){
+                selectedPlayer = select(playerPredictionList, having(on(PlayerPrediction.class).getAttribute(), equalTo(startupOptions.getMinPositions().get(0).getPosition()))).get(0);
             }else {
                 selectedPlayer = playerPredictionList.get(0);
             }
