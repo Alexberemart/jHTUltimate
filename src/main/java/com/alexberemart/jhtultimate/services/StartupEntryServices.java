@@ -44,7 +44,7 @@ public class StartupEntryServices {
             result.add(entry);
 
             //NO puede haber mas de 3 delanteros
-            String subString = selectedPlayer.getAttribute().substring(0, 1);
+            String subString = selectedPlayer.getAttribute().toString().substring(0, 1);
             Integer value = positionCounter.get(subString);
             if (value == null) {
                 positionCounter.put(subString, 1);
@@ -54,7 +54,7 @@ public class StartupEntryServices {
                 if ((subString.equals("A")) && (value == 3)){
                     List<PlayerPrediction> entriesToRemove = new ArrayList<PlayerPrediction>();
                     for (PlayerPrediction playerPrediction : playerPredictionList){
-                        if (playerPrediction.getAttribute().substring(0, 1).equals("A")){
+                        if (playerPrediction.getAttribute().toString().substring(0, 1).equals("A")){
                             entriesToRemove.add(playerPrediction);
                         }
                     }

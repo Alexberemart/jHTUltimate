@@ -1,28 +1,29 @@
 package com.alexberemart.jhtultimate.model.vo;
 
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
 @JsonIgnoreProperties(ignoreUnknown=true)
 public class PlayerPrediction {
 
     protected String name;
-    protected String attribute;
+    protected PlayerPosition attribute;
     protected Double value;
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getAttribute() {
+    public PlayerPosition getAttribute() {
         return attribute;
     }
 
-    public void setAttribute(String attribute) {
+    public void setAttribute(PlayerPosition attribute) {
         this.attribute = attribute;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public Double getValue() {

@@ -1,5 +1,6 @@
 package com.alexberemart.utils;
 
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
 import org.codehaus.jackson.JsonNode;
 import org.codehaus.jackson.map.ObjectMapper;
@@ -19,7 +20,7 @@ public class PlayerPredictionTestLoader {
         for (JsonNode node : jsonNode) {
             PlayerPrediction playerPrediction = new PlayerPrediction();
             playerPrediction.setName(node.path("name").asText());
-            playerPrediction.setAttribute(node.path("attribute").asText());
+            playerPrediction.setAttribute(PlayerPosition.valueOf(node.path("attribute").asText()));
             playerPrediction.setValue(node.path("value").asDouble());
             playerPredictionList.add(playerPrediction);
         }
