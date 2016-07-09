@@ -85,4 +85,8 @@ public enum PlayerPosition{
 
         return result;
     }
+
+    public String getPositionLevelOneText(){
+        return positionLevelTwo.getPositionLevelOne().toString();
+    }
 }
