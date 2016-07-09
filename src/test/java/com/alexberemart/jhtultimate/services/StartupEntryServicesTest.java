@@ -57,7 +57,7 @@ public class StartupEntryServicesTest {
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
         Assert.assertEquals(11, result.size());
-        Assert.assertTrue(select(result, having(on(StartupEntry.class).getPosition(), equalTo("KEE"))).size() >= 1);
+        Assert.assertTrue(select(result, having(on(StartupEntry.class).getPosition(), equalTo(PlayerPosition.KEE))).size() >= 1);
     }
 
     @Test(expected = FixedPositionsOverloadException.class)
