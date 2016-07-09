@@ -31,4 +31,8 @@ public class StartupEntry {
     public void setValue(Double value) {
         this.value = value;
     }
+
+    public String getAttributeDescription() {
+        return position.getPositionLevelOneText();
+    }
 }
