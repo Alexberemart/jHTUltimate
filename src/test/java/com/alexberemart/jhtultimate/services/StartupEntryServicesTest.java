@@ -2,6 +2,7 @@ package com.alexberemart.jhtultimate.services;
 
 import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
+import com.alexberemart.jhtultimate.model.vo.StartupEntry;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
 import com.alexberemart.jhtultimate.model.vo.StartupOptionsPositions;
 import com.alexberemart.utils.PlayerPredictionTestLoader;
@@ -11,6 +12,7 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.util.Assert;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -45,7 +47,8 @@ public class StartupEntryServicesTest {
         startupOptionsPositions.setValue(1);
         startupOptions.getMinPositions().add(startupOptionsPositions);
 
-        startupEntryServices.createStartup(playerPredictionList, startupOptions);
+        List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
+        Assert.notNull(result);
     }
 
 }
