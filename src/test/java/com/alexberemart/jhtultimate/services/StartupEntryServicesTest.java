@@ -2,6 +2,7 @@ package com.alexberemart.jhtultimate.services;
 
 import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
 import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
+import com.alexberemart.jhtultimate.model.enums.PositionLevelOne;
 import com.alexberemart.jhtultimate.model.vo.*;
 import com.alexberemart.utils.PlayerPredictionTestLoader;
 import org.junit.Assert;
@@ -58,6 +59,7 @@ public class StartupEntryServicesTest {
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
         Assert.assertEquals(11, result.size());
         Assert.assertTrue(select(result, having(on(StartupEntry.class).getPosition(), equalTo(PlayerPosition.KEE))).size() >= 1);
+        Assert.assertTrue(select(result, having(on(StartupEntry.class).getAttributeDescription(), equalTo(PositionLevelOne.A.toString()))).size() == PositionLevelOne.A.getMaxNumberOfPlayer());
     }
 
     @Test(expected = FixedPositionsOverloadException.class)
