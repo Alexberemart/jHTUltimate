@@ -18,6 +18,10 @@ public class PlayerPrediction {
         return attribute;
     }
 
+    public String getAttributeDescription() {
+        return attribute.getPositionLevelOneText();
+    }
+
     public void setAttribute(PlayerPosition attribute) {
         this.attribute = attribute;
     }

@@ -1,6 +1,7 @@
 package com.alexberemart.jhtultimate.services;
 
 import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
+import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.vo.*;
 import com.alexberemart.utils.PlayerPredictionTestLoader;
 import org.junit.Assert;
@@ -46,13 +47,13 @@ public class StartupEntryServicesTest {
         startupOptionsPositions.setPosition(com.alexberemart.jhtultimate.model.enums.PlayerPosition.valueOf("KEE"));
         startupOptionsPositions.setValue(1);
 
-        PlayerPosition playerPosition = new PlayerPosition();
-        playerPosition.setName("Elias Metall");
-        playerPosition.setPosition("DLN");
+        StartupPlayerPosition startupPlayerPosition = new StartupPlayerPosition();
+        startupPlayerPosition.setName("Elias Metall");
+        startupPlayerPosition.setPosition(PlayerPosition.DLN);
 
         StartupOptions startupOptions = new StartupOptions();
         startupOptions.getMinPositions().add(startupOptionsPositions);
-        startupOptions.getFixedPlayerPositions().add(playerPosition);
+        startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
         Assert.assertEquals(11, result.size());
@@ -66,14 +67,14 @@ public class StartupEntryServicesTest {
         startupOptionsPositions.setPosition(com.alexberemart.jhtultimate.model.enums.PlayerPosition.valueOf("KEE"));
         startupOptionsPositions.setValue(1);
 
-        PlayerPosition playerPosition = new PlayerPosition();
-        playerPosition.setName("Elias Metall");
-        playerPosition.setPosition("DLN");
+        StartupPlayerPosition startupPlayerPosition = new StartupPlayerPosition();
+        startupPlayerPosition.setName("Elias Metall");
+        startupPlayerPosition.setPosition(PlayerPosition.DLN);
 
         StartupOptions startupOptions = new StartupOptions();
         startupOptions.getMinPositions().add(startupOptionsPositions);
         for (Integer i = 0; i < 12; i++) {
-            startupOptions.getFixedPlayerPositions().add(playerPosition);
+            startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
         }
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
@@ -87,16 +88,17 @@ public class StartupEntryServicesTest {
         startupOptionsPositions.setPosition(com.alexberemart.jhtultimate.model.enums.PlayerPosition.valueOf("KEE"));
         startupOptionsPositions.setValue(1);
 
-        PlayerPosition playerPosition = new PlayerPosition();
-        playerPosition.setName("Elias Metall");
-        playerPosition.setPosition("DLN");
+        StartupPlayerPosition startupPlayerPosition = new StartupPlayerPosition();
+        startupPlayerPosition.setName("Elias Metall");
+        startupPlayerPosition.setPosition(PlayerPosition.DLN);
 
         StartupOptions startupOptions = new StartupOptions();
         startupOptions.getMinPositions().add(startupOptionsPositions);
-        startupOptions.getFixedPlayerPositions().add(playerPosition);
+        startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
         Assert.assertEquals(11, result.size());
+        Assert.assertNotNull(result);
     }
 
 }

@@ -6,18 +6,18 @@ import java.util.List;
 public class StartupOptions {
 
     protected List<StartupOptionsPositions> minPositions = new ArrayList<StartupOptionsPositions>();
-    protected List<PlayerPosition> fixedPlayerPositions = new ArrayList<>();
+    protected List<StartupPlayerPosition> fixedStartupPlayerPositions = new ArrayList<>();
 
     public List<StartupOptionsPositions> getMinPositions() {
         return minPositions;
     }
 
-    public List<PlayerPosition> getFixedPlayerPositions() {
-        return fixedPlayerPositions;
+    public List<StartupPlayerPosition> getFixedStartupPlayerPositions() {
+        return fixedStartupPlayerPositions;
     }
 
-    public void setFixedPlayerPositions(List<PlayerPosition> fixedPlayerPositions) {
-        this.fixedPlayerPositions = fixedPlayerPositions;
+    public void setFixedStartupPlayerPositions(List<StartupPlayerPosition> fixedStartupPlayerPositions) {
+        this.fixedStartupPlayerPositions = fixedStartupPlayerPositions;
     }
 
     public void setMinPositions(List<StartupOptionsPositions> minPositions) {
