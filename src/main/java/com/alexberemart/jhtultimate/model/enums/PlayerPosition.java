@@ -8,41 +8,47 @@ import java.util.Map;
 
 public enum PlayerPosition{
 
-    KEE(1, "Piso / Apartamento"),
+    KEE(1, "prueba", PositionLevelTwo.KE),
 
-    DCN(2, "Piso / Apartamento"),
-    DCL(3, "Piso / Apartamento"),
-    DCO(4, "Piso / Apartamento"),
+    DCN(2, "prueba", PositionLevelTwo.DC),
+    DCL(3, "prueba", PositionLevelTwo.DC),
+    DCO(4, "prueba", PositionLevelTwo.DC),
 
-    DLN(5, "Piso / Apartamento"),
-    DLC(6, "Piso / Apartamento"),
-    DLD(7, "Piso / Apartamento"),
-    DLO(8, "Piso / Apartamento"),
+    DLN(5, "prueba", PositionLevelTwo.DL),
+    DLC(6, "prueba", PositionLevelTwo.DL),
+    DLD(7, "prueba", PositionLevelTwo.DL),
+    DLO(8, "prueba", PositionLevelTwo.DL),
 
-    MCN(9, "Piso / Apartamento"),
-    MCD(10, "Piso / Apartamento"),
-    MCO(11, "Piso / Apartamento"),
-    MCL(12, "Piso / Apartamento"),
+    MCN(9, "prueba", PositionLevelTwo.MC),
+    MCD(10, "prueba", PositionLevelTwo.MC),
+    MCO(11, "prueba", PositionLevelTwo.MC),
+    MCL(12, "prueba", PositionLevelTwo.MC),
 
-    MLN(13, "Piso / Apartamento"),
-    MLD(14, "Piso / Apartamento"),
-    MLO(15, "Piso / Apartamento"),
-    MLC(16, "Piso / Apartamento"),
+    MLN(13, "prueba", PositionLevelTwo.ML),
+    MLD(14, "prueba", PositionLevelTwo.ML),
+    MLO(15, "prueba", PositionLevelTwo.ML),
+    MLC(16, "prueba", PositionLevelTwo.ML),
 
-    ACN(17, "Piso / Apartamento"),
-    ACD(18, "Piso / Apartamento"),
-    ACL(19, "Piso / Apartamento");
+    ACN(17, "prueba", PositionLevelTwo.AC),
+    ACD(18, "prueba", PositionLevelTwo.AC),
+    ACL(19, "prueba", PositionLevelTwo.AC);
 
     protected Integer value;
     protected String description;
+    protected PositionLevelTwo positionLevelTwo;
 
-    PlayerPosition(Integer code, String description) {
+    PlayerPosition(Integer code, String description, PositionLevelTwo positionLevelTwo) {
         this.value = code;
         this.description = description;
+        this.positionLevelTwo = positionLevelTwo;
     }
 
     public String getDescription() {
         return description;
+    }
+
+    public PositionLevelTwo getPositionLevelTwo() {
+        return positionLevelTwo;
     }
 
     public void setDescription(String description) {
