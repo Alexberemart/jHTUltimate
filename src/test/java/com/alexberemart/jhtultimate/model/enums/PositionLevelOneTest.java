@@ -1,5 +1,6 @@
 package com.alexberemart.jhtultimate.model.enums;
 
+import com.alexberemart.jhtultimate.AbstractJHTUltimateTest;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,11 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.Map;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration({
-        "classpath:com/alexberemart/jhtultimate/context.xml"
-})
-public class PositionLevelOneTest {
+public class PositionLevelOneTest extends AbstractJHTUltimateTest {
 
     @Test
     public void parse(){

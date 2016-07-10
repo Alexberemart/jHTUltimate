@@ -1,5 +1,6 @@
 package com.alexberemart.jhtultimate.services;
 
+import com.alexberemart.jhtultimate.AbstractJHTUltimateTest;
 import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
 import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.enums.PositionLevelOne;
@@ -8,25 +9,16 @@ import com.alexberemart.utils.PlayerPredictionTestLoader;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static ch.lambdaj.Lambda.having;
-import static ch.lambdaj.Lambda.on;
-import static ch.lambdaj.Lambda.select;
+import static ch.lambdaj.Lambda.*;
 import static org.hamcrest.Matchers.equalTo;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration({
-        "classpath:com/alexberemart/jhtultimate/context.xml"
-})
-public class StartupEntryServicesTest {
+public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
 
     @Autowired
     StartupEntryServices startupEntryServices;
