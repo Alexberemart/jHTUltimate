@@ -1,5 +1,6 @@
 package com.alexberemart.jhtultimate.model.enums;
 
+import com.alexberemart.jhtultimate.AbstractJHTUltimateTest;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,14 +9,10 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.Map;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration({
-        "classpath:com/alexberemart/jhtultimate/context.xml"
-})
-public class PositionLevelTwoTest {
+public class PositionLevelTwoTest extends AbstractJHTUltimateTest {
 
     @Test
-    public void parse(){
+    public void parse() {
         PositionLevelTwo positionLevelTwo = PositionLevelTwo.parse(2);
         Assert.assertEquals(PositionLevelTwo.DC, positionLevelTwo);
         positionLevelTwo = PositionLevelTwo.parse(-1);
@@ -23,7 +20,7 @@ public class PositionLevelTwoTest {
     }
 
     @Test
-    public void asMap(){
+    public void asMap() {
         Map map = PositionLevelTwo.asMap();
         Assert.assertNotNull(map);
     }

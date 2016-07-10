@@ -1,5 +1,6 @@
 package com.alexberemart.jhtultimate.model.enums;
 
+import com.alexberemart.jhtultimate.AbstractJHTUltimateTest;
 import com.alexberemart.jhtultimate.model.vo.StartupEntry;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
 import com.alexberemart.jhtultimate.model.vo.StartupOptionsPositions;
@@ -16,11 +17,7 @@ import java.util.Map;
 import static ch.lambdaj.Lambda.*;
 import static org.hamcrest.Matchers.equalTo;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration({
-        "classpath:com/alexberemart/jhtultimate/context.xml"
-})
-public class PlayerPositionTest {
+public class PlayerPositionTest extends AbstractJHTUltimateTest {
 
     @Test
     public void parse(){
