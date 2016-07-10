@@ -1,25 +1,32 @@
 package com.alexberemart.jhtultimate.services;
 
 import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
-import com.alexberemart.jhtultimate.model.vo.StartupPlayerPosition;
+import com.alexberemart.jhtultimate.exceptions.MaxRangeLimitException;
+import com.alexberemart.jhtultimate.factories.StartupEntryFactory;
 import com.alexberemart.jhtultimate.model.vo.PlayerPrediction;
 import com.alexberemart.jhtultimate.model.vo.StartupEntry;
 import com.alexberemart.jhtultimate.model.vo.StartupOptions;
+import com.alexberemart.jhtultimate.model.vo.StartupPlayerPosition;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
 
-import static ch.lambdaj.Lambda.having;
-import static ch.lambdaj.Lambda.on;
-import static ch.lambdaj.Lambda.select;
+import static ch.lambdaj.Lambda.*;
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.greaterThan;
 
 @Service
 public class StartupEntryServices {
 
+    @Autowired
+    StartupEntryFactory startupEntryFactory;
+
     public List<StartupEntry> createStartup(List<PlayerPrediction> playerPredictionList, StartupOptions startupOptions) {
 
-        List<StartupEntry> result = new ArrayList<StartupEntry>();
+        List<StartupEntry> result = new ArrayList<>();
+
+        manageMaxRange(playerPredictionList, startupOptions);
 
         Collections.sort(playerPredictionList, predictionComparator);
         Integer positionCount = 11;
@@ -30,33 +37,23 @@ public class StartupEntryServices {
             throw new FixedPositionsOverloadException("FixedPositionsOverload");
         }
 
-        //Posiciones Forzadas
-        for (StartupPlayerPosition startupPlayerPosition : startupOptions.getFixedStartupPlayerPositions()){
-            StartupEntry entry = new StartupEntry();
-            entry.setName(startupPlayerPosition.getName());
-            entry.setPosition(startupPlayerPosition.getPosition());
-            entry.setValue(1.0);
-            result.add(entry);
+        if (startupOptions.getMaxRange() != null) {
+            if (startupOptions.getMaxRange() < 0) {
+                throw new MaxRangeLimitException("Max Range must be greater than zero");
+            }
         }
 
-        Integer remainingPositionCount = positionCount - result.size();
+        //Posiciones Forzadas
+        for (StartupPlayerPosition startupPlayerPosition : startupOptions.getFixedStartupPlayerPositions()){
+            result.add(startupEntryFactory.createStartup(startupPlayerPosition));
+        }
 
-        for (Integer i = 0; i < remainingPositionCount; i++){
+        Integer remainingPositionCountAfterFixedPositions = positionCount - result.size();
 
-            PlayerPrediction selectedPlayer = new PlayerPrediction();
+        for (Integer i = 0; i < remainingPositionCountAfterFixedPositions; i++){
 
-            if (startupOptions.getMinPositions().size() >= (remainingPositionCount - i)){
-                selectedPlayer = select(playerPredictionList, having(on(PlayerPrediction.class).getAttribute(), equalTo(startupOptions.getMinPositions().get(0).getPosition()))).get(0);
-            }else {
-                selectedPlayer = playerPredictionList.get(0);
-            }
-
-            StartupEntry entry = new StartupEntry();
-            entry.setName(selectedPlayer.getName());
-            entry.setPosition(selectedPlayer.getAttribute());
-            entry.setValue(selectedPlayer.getValue());
-            result.add(entry);
-
+            PlayerPrediction selectedPlayer = getNextPlayer(playerPredictionList, startupOptions, remainingPositionCountAfterFixedPositions - i);
+            result.add(startupEntryFactory.createStartup(selectedPlayer));
             manageMaxNumberOfPositions(selectedPlayer, result, playerPredictionList);
             manageMaxNumberOfSamePlayer(selectedPlayer, playerPredictionList);
         }
@@ -99,5 +96,28 @@ public class StartupEntryServices {
                                 equalTo(selectedPlayer.getName())));
 
         playerPredictionList.removeAll(entriesToRemove);
+    }
+
+    private void manageMaxRange(List<PlayerPrediction> playerPredictionList, StartupOptions startupOptions) {
+
+        if (startupOptions.getMaxRange() == null){
+            return;
+        }
+
+        List<PlayerPrediction> entriesToRemove =
+                select(playerPredictionList,
+                        having(on(PlayerPrediction.class).getMaxRange(),
+                                greaterThan(startupOptions.getMaxRange())));
+
+        playerPredictionList.removeAll(entriesToRemove);
+    }
+
+    private PlayerPrediction getNextPlayer(List<PlayerPrediction> playerPredictionList, StartupOptions startupOptions, Integer remainingPositionCount) {
+
+        if (startupOptions.getMinPositions().size() >= (remainingPositionCount)){
+            return select(playerPredictionList, having(on(PlayerPrediction.class).getAttribute(), equalTo(startupOptions.getMinPositions().get(0).getPosition()))).get(0);
+        }else {
+            return playerPredictionList.get(0);
+        }
     }
 }

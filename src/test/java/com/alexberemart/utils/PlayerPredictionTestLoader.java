@@ -22,6 +22,7 @@ public class PlayerPredictionTestLoader {
             playerPrediction.setName(node.path("name").asText());
             playerPrediction.setAttribute(PlayerPosition.valueOf(node.path("attribute").asText()));
             playerPrediction.setValue(node.path("value").asDouble());
+            playerPrediction.setMaxRange(node.path("max_range").asInt());
             playerPredictionList.add(playerPrediction);
         }
         return playerPredictionList;
