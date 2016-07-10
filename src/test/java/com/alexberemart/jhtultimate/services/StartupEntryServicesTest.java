@@ -2,6 +2,7 @@ package com.alexberemart.jhtultimate.services;
 
 import com.alexberemart.jhtultimate.AbstractJHTUltimateTest;
 import com.alexberemart.jhtultimate.exceptions.FixedPositionsOverloadException;
+import com.alexberemart.jhtultimate.exceptions.MaxRangeLimitException;
 import com.alexberemart.jhtultimate.model.enums.PlayerPosition;
 import com.alexberemart.jhtultimate.model.enums.PositionLevelOne;
 import com.alexberemart.jhtultimate.model.vo.*;
@@ -17,6 +18,8 @@ import java.util.List;
 
 import static ch.lambdaj.Lambda.*;
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.greaterThan;
+import static org.hamcrest.Matchers.lessThan;
 
 public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
 
@@ -49,7 +52,7 @@ public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
         startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
-        Assert.assertEquals(11, result.size());
+        manageCommonAssert(result);
         Assert.assertTrue(select(result, having(on(StartupEntry.class).getPosition(), equalTo(PlayerPosition.KEE))).size() >= 1);
         Assert.assertTrue(select(result, having(on(StartupEntry.class).getAttributeDescription(), equalTo(PositionLevelOne.A.toString()))).size() == PositionLevelOne.A.getMaxNumberOfPlayer());
     }
@@ -72,7 +75,7 @@ public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
         }
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
-        Assert.assertEquals(11, result.size());
+        manageCommonAssert(result);
     }
 
     @Test
@@ -91,6 +94,33 @@ public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
         startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
+        manageCommonAssert(result);
+    }
+
+    @Test
+    public void createStartupLimitMaxRange(){
+
+        final Integer maxRangeLimit = 5;
+        StartupOptions startupOptions = new StartupOptions();
+        startupOptions.setMaxRange(maxRangeLimit);
+
+        List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
+        manageCommonAssert(result);
+        List<StartupEntry> resultWithMaxRangeGreaterThanLimit = select(result, having(on(StartupEntry.class).getMaxRange(), greaterThan(maxRangeLimit)));
+        Assert.assertTrue(resultWithMaxRangeGreaterThanLimit.size() == 0);
+    }
+
+    @Test(expected = MaxRangeLimitException.class)
+    public void createStartupLimitMaxRangeError(){
+
+        final Integer maxRangeLimit = -1;
+        StartupOptions startupOptions = new StartupOptions();
+        startupOptions.setMaxRange(maxRangeLimit);
+
+        startupEntryServices.createStartup(playerPredictionList, startupOptions);
+    }
+
+    private void manageCommonAssert(List<StartupEntry> result){
         Assert.assertEquals(11, result.size());
         Assert.assertNotNull(result);
     }
