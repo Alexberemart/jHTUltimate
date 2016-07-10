@@ -9,6 +9,15 @@ public class PlayerPrediction {
     protected String name;
     protected PlayerPosition attribute;
     protected Double value;
+    protected Integer maxRange;
+
+    public Integer getMaxRange() {
+        return maxRange;
+    }
+
+    public void setMaxRange(Integer maxRange) {
+        this.maxRange = maxRange;
+    }
 
     public String getName() {
         return name;

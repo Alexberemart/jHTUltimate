@@ -7,6 +7,7 @@ public class StartupEntry {
     protected String name;
     protected PlayerPosition position;
     protected Double value;
+    protected Integer maxRange;
 
     public String getName() {
         return name;
@@ -18,6 +19,14 @@ public class StartupEntry {
 
     public PlayerPosition getPosition() {
         return position;
+    }
+
+    public Integer getMaxRange() {
+        return maxRange;
+    }
+
+    public void setMaxRange(Integer maxRange) {
+        this.maxRange = maxRange;
     }
 
     public void setPosition(PlayerPosition position) {
