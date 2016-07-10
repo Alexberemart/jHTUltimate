@@ -27,6 +27,7 @@ public class StartupEntryServices {
         List<StartupEntry> result = new ArrayList<>();
 
         manageMaxRange(playerPredictionList, startupOptions);
+        manageExclusions(playerPredictionList, startupOptions);
 
         Collections.sort(playerPredictionList, predictionComparator);
         Integer positionCount = 11;
@@ -110,6 +111,20 @@ public class StartupEntryServices {
                                 greaterThan(startupOptions.getMaxRange())));
 
         playerPredictionList.removeAll(entriesToRemove);
+    }
+
+    private void manageExclusions(List<PlayerPrediction> playerPredictionList, StartupOptions startupOptions) {
+        for (StartupPlayerPosition startupPlayerPosition : startupOptions.getExcludedStartupPlayerPositions()){
+            List<PlayerPrediction> entriesFiltered =
+                    select(playerPredictionList,
+                            having(on(PlayerPrediction.class).getName(),
+                                    equalTo(startupPlayerPosition.getName())));
+            List<PlayerPrediction> entriesToRemove =
+                    select(entriesFiltered,
+                            having(on(PlayerPrediction.class).getAttribute(),
+                                    equalTo(startupPlayerPosition.getPosition())));
+            playerPredictionList.removeAll(entriesToRemove);
+        }
     }
 
     private PlayerPrediction getNextPlayer(List<PlayerPrediction> playerPredictionList, StartupOptions startupOptions, Integer remainingPositionCount) {

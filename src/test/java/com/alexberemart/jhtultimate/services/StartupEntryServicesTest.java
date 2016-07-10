@@ -19,7 +19,6 @@ import java.util.List;
 import static ch.lambdaj.Lambda.*;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-import static org.hamcrest.Matchers.lessThan;
 
 public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
 
@@ -92,6 +91,20 @@ public class StartupEntryServicesTest extends AbstractJHTUltimateTest {
         StartupOptions startupOptions = new StartupOptions();
         startupOptions.getMinPositions().add(startupOptionsPositions);
         startupOptions.getFixedStartupPlayerPositions().add(startupPlayerPosition);
+
+        List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
+        manageCommonAssert(result);
+    }
+
+    @Test
+    public void createStartupExcludedPositions(){
+
+        StartupPlayerPosition startupPlayerPosition = new StartupPlayerPosition();
+        startupPlayerPosition.setName("Elias Metall");
+        startupPlayerPosition.setPosition(PlayerPosition.DLN);
+
+        StartupOptions startupOptions = new StartupOptions();
+        startupOptions.getExcludedStartupPlayerPositions().add(startupPlayerPosition);
 
         List<StartupEntry> result = startupEntryServices.createStartup(playerPredictionList, startupOptions);
         manageCommonAssert(result);

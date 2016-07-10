@@ -7,7 +7,16 @@ public class StartupOptions {
 
     protected List<StartupOptionsPositions> minPositions = new ArrayList<StartupOptionsPositions>();
     protected List<StartupPlayerPosition> fixedStartupPlayerPositions = new ArrayList<>();
+    protected List<StartupPlayerPosition> excludedStartupPlayerPositions = new ArrayList<>();
     protected Integer maxRange;
+
+    public List<StartupPlayerPosition> getExcludedStartupPlayerPositions() {
+        return excludedStartupPlayerPositions;
+    }
+
+    public void setExcludedStartupPlayerPositions(List<StartupPlayerPosition> excludedStartupPlayerPositions) {
+        this.excludedStartupPlayerPositions = excludedStartupPlayerPositions;
+    }
 
     public List<StartupOptionsPositions> getMinPositions() {
         return minPositions;
